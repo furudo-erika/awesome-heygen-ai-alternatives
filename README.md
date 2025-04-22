@@ -85,7 +85,7 @@ When evaluating Heygen and its alternatives, consider these crucial features:
 
 Here's a curated list of prominent players in the AI video generation space, starting with Heygen itself.
 
-### 1. HeyGem.ai (by GuijiAI)
+### 1. HeyGem.ai
 
 [![](https://github.com/GuijiAI/HeyGem.ai/raw/main/README.assets/PixPin_2025-04-16_16-23-23.jpg)](https://github.com/GuijiAI/HeyGem.ai)
 
