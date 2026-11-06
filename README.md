@@ -32,6 +32,7 @@ Whether you're looking for different avatar styles, specific integrations, varie
     *   [10. RunwayML](#10-runwayml)
     *   [11. Virbo (by Wondershare)](#11-virbo-by-wondershare)
     *   [12. Yepic AI](#12-yepic-ai)
+    *   [13. AvatarSay](#13-avatarsay)
 *   [Feature Comparison Matrix (Conceptual)](#feature-comparison-matrix-conceptual)
 *   [Use Cases Deep Dive](#use-cases-deep-dive)
     *   [Marketing & Sales](#marketing--sales)
@@ -286,6 +287,21 @@ Here's a curated list of prominent players in the AI video generation space, sta
 *   **Strengths:** Includes both standard avatars and photo animation, offers API and Zapier integration.
 *   **Potential Considerations:** Market presence and feature depth compared to the top-tier platforms should be evaluated based on current offerings.
 *   **Ideal Use Cases:** Personalized video messaging, quick video creation using photos, automated video workflows via API/Zapier.
+
+---
+
+### 13. AvatarSay
+
+*   **Website:** [https://avatarsay.com/](https://avatarsay.com/)
+*   **Description:** AvatarSay creates fictional talking characters from text. You describe a character in one sentence, pick a style, get two AI avatars, then make one speak a short script with a lip-synced voice.
+*   **Key Features:**
+    *   **Text-to-Character:** Two 1024px avatars from a one-sentence description, in 8 styles (anime, 3D cartoon, pixel art, realistic, fantasy, watercolor, cyberpunk, professional).
+    *   **Talking Video:** Lip-synced MP4 of up to 25 seconds, with a choice of 8 voices.
+    *   **Fictional Faces Only:** No photo uploads, face swaps or voice cloning.
+    *   **One-Time Pricing:** Credit packs from $9.90 with no subscription; credits don't expire. New accounts get a free 3-second clip.
+*   **Strengths:** Stylized characters (anime, cartoon, pixel art) rather than corporate presenters; no subscription.
+*   **Potential Considerations:** Short clips only (up to 25 seconds); no avatars of real people, no voice cloning, no API and no multi-scene editor.
+*   **Ideal Use Cases:** Channel intros, stream alerts, Discord welcomes and short-form videos for faceless channels.
 
 ---
 
